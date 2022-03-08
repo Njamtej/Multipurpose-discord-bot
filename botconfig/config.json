@@ -1,6 +1,6 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "OTUwNzg4MjMwNTY1OTkwNDky.YieAig.yUymfNQQ__ON9A8nROxg_5JlSj4",
+    "prefix": "::",
     "ownerIDS": [
         "442355791412854784"
     ],
@@ -16,7 +16,7 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
+                "host": "online",
                 "port": 2333,
                 "password": "youshallnotpass"
             }
