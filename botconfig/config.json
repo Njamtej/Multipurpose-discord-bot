@@ -1,14 +1,14 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "OTUwNzg4MjMwNTY1OTkwNDky.YieAig.yUymfNQQ__ON9A8nROxg_5JlSj4",
+    "prefix": "++",
     "ownerIDS": [
         "442355791412854784"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "fnbr": "https://fnbr.co/pickaxe/ezios-hidden-blade",
+    "fortnitetracker": "https://fortnitetracker.com/locker/15367/marshinobi",
+    "memer_api": "https://memer-api.live/api/v4/abandon?token=API_Token&text=hello",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text": "{++}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: discord.gg/dcdev",
         "type": "PLAYING",
         "url": "https://twitch.tv/milratodiscordbot"
@@ -23,8 +23,8 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "https://api.spotify.com/v1/audio-analysis/6EJiVf7U0p1BBfs0qqeb1f",
+        "clientID": "6rqhFgbbKwnb9MLmUQDhG6"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
@@ -42,7 +42,7 @@
         "lyrics_finder": true,
         "ksoft_api": {
             "use_this_instead": true,
-            "api_key": "DISABLED"
+            "api_key": "ENABLE"
         }
     }
 }
