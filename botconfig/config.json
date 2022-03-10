@@ -1,6 +1,6 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "OTUwNzg4MjMwNTY1OTkwNDky.YieAig.yUymfNQQ__ON9A8nROxg_5JlSj4",
+    "prefix": "++",
     "ownerIDS": [
         "442355791412854784"
     ],
@@ -23,8 +23,8 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "https://api.spotify.com/v1/audio-analysis/6EJiVf7U0p1BBfs0qqeb1f",
+        "clientID": "6rqhFgbbKwnb9MLmUQDhG6"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
